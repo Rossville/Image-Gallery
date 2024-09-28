@@ -1,0 +1,1 @@
+This Project is made out of HTML,CSS, and Vanilla JS. TO enhance the user experience, I've used fetch API from 'picsum.photos' to get different sets of images along with this ,it's responsive for mobile and desktop.
